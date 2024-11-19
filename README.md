@@ -72,5 +72,3 @@ Distributed under the MIT License.
 rongen - [ray](https://github.com/dadadaray) - 2601219524@qq.com
 
 Project Link: [https://github.com/dadadaray/NAS-CRE/](https://github.com/dadadaray/NAS-CRE/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
